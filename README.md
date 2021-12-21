@@ -1,5 +1,6 @@
 # VRChatHakase
 
+![Hakase](Hakase.jpg)
 Source files for the Hakase VRChat avatar
 
 Made by VeXx#3179. Please credit VeXx#3179 if you upload or use it.
